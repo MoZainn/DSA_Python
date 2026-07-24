@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MoZainn/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MoZainn/DSA_Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MoZainn/DSA_Python/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MoZainn/DSA_Python/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MoZainn/DSA_Python/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MoZainn/DSA_Python/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MoZainn/DSA_Python/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MoZainn/DSA_Python/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MoZainn/DSA_Python/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,14 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MoZainn/DSA_Python/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MoZainn/DSA_Python/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MoZainn/DSA_Python/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MoZainn/DSA_Python/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MoZainn/DSA_Python/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MoZainn/DSA_Python/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MoZainn/DSA_Python/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MoZainn/DSA_Python/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MoZainn/DSA_Python/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
