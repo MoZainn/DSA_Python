@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MoZainn/DSA_Python/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/MoZainn/DSA_Python/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MoZainn/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -109,9 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MoZainn/DSA_Python/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/MoZainn/DSA_Python/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MoZainn/DSA_Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MoZainn/DSA_Python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
