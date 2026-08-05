@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MoZainn/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MoZainn/DSA_Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MoZainn/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MoZainn/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/MoZainn/DSA_Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MoZainn/DSA_Python/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/MoZainn/DSA_Python/tree/master/0238-product-of-array-except-self) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MoZainn/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MoZainn/DSA_Python/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MoZainn/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MoZainn/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MoZainn/DSA_Python/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MoZainn/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
